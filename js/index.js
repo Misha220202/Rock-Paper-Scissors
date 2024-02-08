@@ -62,8 +62,7 @@ function playRound(playerSelection, ComputerSelecion) {
     }
 }
 
-// function playGame() {
-    let playGame = () => {
+function playGame() {
     let playerscore = 0;
     let computerscore = 0;
     for (let i = 1; i <= 5; i++) {
